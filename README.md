@@ -12,7 +12,7 @@
   </picture>
   <a href="https://github.com/MuLiuSaMa"><img src="assets/github-sticker.svg" alt="GitHub profile" width="24%"></a><br>
   <a href="mailto:3229278207@qq.com"><img src="assets/email-sticker.svg" alt="Email 3229278207@qq.com" width="24%"></a><br>
-  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=3229278207&amp;site=qq&amp;menu=yes"><img src="assets/qq-sticker.svg" alt="QQ 3229278207" width="24%"></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=3229278207&amp;site=qq&amp;menu=yes"><img src="assets/qq-sticker.svg" alt="QQ号 3229278207" width="24%"></a>
   <br clear="all">
 </p>
 
